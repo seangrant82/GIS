@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "level": 1,
-        "Name": "1",
+        "name": "1",
         "height": 600,
         "base_height": 0,
         "color": "red"
